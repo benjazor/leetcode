@@ -1,4 +1,4 @@
-# EXERCICE : Remove Duplicates from Sorted List II
+# NAME : Remove Duplicates from Sorted List II
 # LINK : https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3593/
 # DATE : 05/01/2021
 
